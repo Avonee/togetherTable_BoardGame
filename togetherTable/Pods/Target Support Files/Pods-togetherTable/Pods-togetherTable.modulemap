@@ -1,0 +1,6 @@
+framework module Pods_togetherTable {
+  umbrella header "Pods-togetherTable-umbrella.h"
+
+  export *
+  module * { export * }
+}
